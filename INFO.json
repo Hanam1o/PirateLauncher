@@ -1,0 +1,37 @@
+{
+  "launcher_version": "1.0.0",
+  "mod_api_enabled": true,
+  "force_update": false,
+
+  "motd": "⚓ Добро пожаловать на борт, моряк!",
+
+  "news": [
+    {
+      "id": 1,
+      "title": "Лаунчер запущен!",
+      "body": "Первая версия PirateLauncher теперь доступна. Удачной игры!",
+      "date": "2024-03-01",
+      "type": "info"
+    },
+    {
+      "id": 2,
+      "title": "Поддержка Forge 1.20.4",
+      "body": "Добавлена поддержка Forge для Minecraft 1.20.4. Скачивайте в разделе версий.",
+      "date": "2024-03-05",
+      "type": "update"
+    },
+    {
+      "id": 3,
+      "title": "Внимание: обновление Java",
+      "body": "Для Minecraft 1.17+ требуется Java 17 или новее.",
+      "date": "2024-03-10",
+      "type": "warning"
+    }
+  ],
+
+  "links": {
+    "discord": "https://discord.gg/yourserver",
+    "github":  "https://github.com/your/repo",
+    "website": "https://yoursite.com"
+  }
+}
