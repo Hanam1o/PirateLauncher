@@ -1,5 +1,5 @@
 {
-  "launcher_version": "1.0.0",
+  "launcher_version": "0.0.1",
   "mod_api_enabled": true,
   "force_update": false,
 
@@ -8,30 +8,23 @@
   "news": [
     {
       "id": 1,
-      "title": "test",
-      "body": "test123",
-      "date": "2026-05-01",
+      "title": "Начало!",
+      "body": "Бета версия лаунчера успешно запущенна.",
+      "date": "2026-05-05",
       "type": "info"
     },
     {
       "id": 2,
-      "title": "Work",
-      "body": "123",
-      "date": "2026-05-05",
-      "type": "update"
-    },
-    {
-      "id": 3,
-      "title": "Java",
-      "body": "123",
+      "title": "Отключение",
+      "body": "Временно не работают версии 26.x.x",
       "date": "2026-05-05",
       "type": "warning"
     }
   ],
 
   "links": {
-    "discord": "https://discord.gg/yourserver",
-    "github":  "https://github.com/your/repo",
+    "discord": "https://discord.gg",
+    "github":  "https://github.com/Hanam1o",
     "website": "https://yoursite.com"
   }
 }
