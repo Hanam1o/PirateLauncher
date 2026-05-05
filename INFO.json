@@ -1,6 +1,6 @@
 {
   "launcher_version": "0.0.1",
-  "mod_api_enabled": true,
+  "mod_api_enabled": false,
   "force_update": false,
 
   "motd": "⚓ Добро пожаловать на борт, моряк!",
